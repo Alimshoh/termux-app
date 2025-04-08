@@ -45,6 +45,20 @@ The core [Termux](https://github.com/termux/termux-app) app comes with the follo
 - [Termux:Widget](https://github.com/termux/termux-widget)
 ##
 
+apt update -y
+apt upgrade -y
+pkg install update -y
+git clone https://github.com/termux/termux-app/actions
+cd $HOME
+ls
+cd Alimshoh
+
+
+
+
+
+
+
 
 
 ## Installation
